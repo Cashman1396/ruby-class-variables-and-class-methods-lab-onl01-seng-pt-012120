@@ -1,5 +1,5 @@
 class Song 
-  attr_accessor :name, :artist, :assert_generates
+  attr_accessor :name, :artist, :genre
   
   
   @@count = 0 
